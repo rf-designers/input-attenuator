@@ -4,8 +4,8 @@
 
   (title_block
     (title "HF input attenuator")
-    (date "2020-07-21")
-    (rev "1.3")
+    (date "2021-03-22")
+    (rev "1.4")
     (company "Adrian Scripcă, Frédéric Boes")
   )
 
@@ -6124,7 +6124,7 @@
     (uuid 8354ecd4-2a4f-44f8-a737-ff9cdb5f7927)
     (property "Reference" "U7" (id 0) (at 108.585 115.316 0))
     (property "Value" "TPS7A4501DCQT" (id 1) (at 108.585 117.856 0))
-    (property "Footprint" "Package_TO_SOT_SMD:SOT-223-6" (id 2) (at 108.585 111.76 0)
+    (property "Footprint" "Package_TO_SOT_SMD:SOT-223-6_TabPin3" (id 2) (at 108.585 111.76 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/tps7a45.pdf" (id 3) (at 102.235 123.19 0)
@@ -6911,7 +6911,7 @@
       (reference "U6") (unit 1) (value "74HC595") (footprint "Package_SO:SO-16_3.9x9.9mm_P1.27mm")
     )
     (path "/8354ecd4-2a4f-44f8-a737-ff9cdb5f7927"
-      (reference "U7") (unit 1) (value "TPS7A4501DCQT") (footprint "Package_TO_SOT_SMD:SOT-223-6")
+      (reference "U7") (unit 1) (value "TPS7A4501DCQT") (footprint "Package_TO_SOT_SMD:SOT-223-6_TabPin3")
     )
     (path "/cb9337bf-8f82-4876-8c4b-170c9496f38f"
       (reference "U8") (unit 1) (value "LP339") (footprint "Package_SO:SO-14_3.9x8.65mm_P1.27mm")

@@ -412,6 +412,12 @@
       "version": 0
     },
     "net_format_name": "",
+    "ngspice": {
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 0
+    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "spice_adjust_passive_values": false,
@@ -421,7 +427,7 @@
   },
   "sheets": [
     [
-      "052befca-0c37-4091-b10c-2dd92221734f",
+      "cdd3a6a3-3005-484f-853b-aeab120eca93",
       ""
     ]
   ],
