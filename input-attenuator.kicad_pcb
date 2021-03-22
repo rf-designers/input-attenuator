@@ -5280,8 +5280,8 @@
   )
 
   (gr_rect (start 63.5 24.892) (end 153.67 80.645) (layer "Edge.Cuts") (width 0.05) (fill none) (tstamp 9b9849b7-4cfa-4dbf-ae5f-23be77cb670a))
-  (gr_text "Input Attenuator v1.5" (at 150.495 52.07 90) (layer "F.Cu") (tstamp 36076e25-1517-4543-8132-20a3a1f9dbd2)
-    (effects (font (size 1.5 1.5) (thickness 0.3)))
+  (gr_text "Input Attenuator v1.4\n22.03.2021" (at 150.495 52.07 90) (layer "F.Cu") (tstamp 36076e25-1517-4543-8132-20a3a1f9dbd2)
+    (effects (font (size 1 1) (thickness 0.2)))
   )
 
   (segment (start 90.4 62.738) (end 89.425 62.738) (width 0.35) (layer "F.Cu") (net 1) (tstamp 05042ac5-8328-4660-946d-affe6030931a))
@@ -5564,6 +5564,7 @@
   (segment (start 89.3555 28.194) (end 90.31 28.194) (width 1) (layer "F.Cu") (net 11) (tstamp 6b953d4b-3107-4e6f-b0dd-4a585ab3d59b))
   (segment (start 98.552 54.93) (end 98.044 55.438) (width 0.35) (layer "F.Cu") (net 11) (tstamp 6cc02387-ee1a-4e0d-b983-3c14269409bd))
   (segment (start 89.294 48.006) (end 91.834 48.006) (width 0.5) (layer "F.Cu") (net 11) (tstamp 704f9c81-b0b7-4a42-bfe1-8a0cfbdc5955))
+  (segment (start 85.6875 69.088) (end 81.407 69.088) (width 0.7) (layer "F.Cu") (net 11) (tstamp 7ac68a0c-5bc0-4a0e-9ee7-a01f3c3872f6))
   (segment (start 119.012 35.306) (end 116.98 35.306) (width 0.5) (layer "F.Cu") (net 11) (tstamp 7dcd0a89-336a-4692-bb7c-c895ee87476f))
   (segment (start 82.4505 28.194) (end 81.166 28.194) (width 1) (layer "F.Cu") (net 11) (tstamp 7eee09fc-6262-461d-a0b5-8798cc79b16b))
   (segment (start 101.057 70.485) (end 99.695 70.485) (width 0.35) (layer "F.Cu") (net 11) (tstamp 855ad4a2-9976-49ec-a215-efc15e0a9104))
@@ -5611,6 +5612,7 @@
   (segment (start 132.762989 73.739011) (end 132.842 73.66) (width 0.35) (layer "F.Cu") (net 11) (tstamp ef5aa6ba-df4e-4b15-ae86-09058c89cdb4))
   (segment (start 84.428 55.118) (end 86.967 55.118) (width 0.4) (layer "F.Cu") (net 11) (tstamp f08c9e70-13ef-4abd-9924-ba1c4f4d74b7))
   (segment (start 112.4225 28.448) (end 111.646 28.448) (width 1) (layer "F.Cu") (net 11) (tstamp f1b19c78-791b-4a3e-bdd8-59831ce90477))
+  (segment (start 81.407 69.088) (end 81.28 69.215) (width 0.25) (layer "F.Cu") (net 11) (tstamp f42990ea-4ca9-4257-ace2-fed2fc332baf))
   (segment (start 89.294 35.306) (end 87.262 35.306) (width 0.5) (layer "F.Cu") (net 11) (tstamp f4ab0293-1189-4387-b5e1-8aa87581ffba))
   (segment (start 104.28 48.006) (end 103.01 46.736) (width 0.5) (layer "F.Cu") (net 11) (tstamp f4ad996b-2a92-4885-9c35-4cabb713d033))
   (via (at 87.262 35.306) (size 0.8) (drill 0.4) (layers "F.Cu" "B.Cu") (net 11) (tstamp 0d30b959-afb8-4c14-918b-3257f62e481e))
